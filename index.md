@@ -16,3 +16,9 @@ if ( a % 2 != 0)
 printf("this is not an even no");
 /* this is a C file that checks a number entered by the user if it is odd */
 ```
+
+### adding a task list
+#### whose picture wouldyou like to see
+- [x] my picture
+- [x] her fine picture alone
+- [ ] none then
